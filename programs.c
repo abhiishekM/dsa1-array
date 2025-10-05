@@ -8,6 +8,7 @@ int main() {
     int arr[n];
 
     printf("Enter %d elements:\n", n);
+//trial only trial.hehe
     for(i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
