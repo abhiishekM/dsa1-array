@@ -8,7 +8,7 @@ int main() {
     int arr[n];
 
     printf("Enter %d elements:\n", n);
-//trial only trial.hehe
+//trial only trial.hehefjdj
     for(i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }
